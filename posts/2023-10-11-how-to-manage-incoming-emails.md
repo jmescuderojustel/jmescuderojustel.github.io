@@ -54,7 +54,7 @@ You should store the information in the appropriate tool, as it will help you fi
 
 Taking into account all the previous topics, let’s see a flow for processing your inbox:
 
-![Email processing example](2023-10-11-how-to-manage-incoming-emails/email-processing.webp)
+![Email processing example](/assets/images/posts/2023-10-11-how-to-manage-incoming-emails/email-processing.webp)
 
 1. An email arrives in your inbox. Ideally, you will not notice it, as you should see only when you look at your email client (2-3 times a day).
 2. When the moment to take a look at your inbox arrives, it is time to analyze each email.

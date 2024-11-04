@@ -1,4 +1,4 @@
-title: Blog by Jesús María Escudero Justel
+title: Not only coding
 description: This is a place in which I place some (hopefully) useful content about software development and all the things that are related to it (not everything is coding)
 author: Jesús María Escudero Justel
 show_downloads: false
@@ -13,16 +13,15 @@ plugins:
   - jekyll-remote-theme
 
 # Social links
-github_username:  jmescuderojustel
-github_username:  artisau
+github_username: jmescuderojustel
+linkedin_username: jes%C3%BAs-mar%C3%ADa-escudero-justel-8b026033
 
 # Post settings
 permalink: /:year/:month/:day/:title/
 
 # Default front matter
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
