@@ -5,6 +5,8 @@ tags: [Email management]
 categories: [Productivity]
 ---
 
+# How to Manage Incoming Emails
+
 Mails are the norm in nowadays communication in companies. Long threads of emails with dozens of people included in the recipient lists fill out inboxes. Some of those emails require some sort of action on your part, while others are just either informative or, directly, irrelevant. However, every time you go back to your email client, you feel overwhelmed with all those emails waiting for you. In fact, even leaving your email client closed may not free your mind, as those to-process emails will remain in some part of your brain, yelling at you.
 
 Following, I’m sharing a way of managing your inbox to serve its main purpose: holding communications (not information).

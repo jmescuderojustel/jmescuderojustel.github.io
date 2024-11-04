@@ -5,6 +5,8 @@ tags: [Code quality, Reviews]
 categories: [Software development]
 ---
 
+# An Introduction to Peer Reviews
+
 A peer review is both a functional and a code review performed between two or more people (from now on, the “reviewers”).
 
 The developer who completes a user story (from now on, the “creator”) shows his work to other teammates to get feedback about it, before showing it to the final customer.

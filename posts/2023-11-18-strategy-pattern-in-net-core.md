@@ -5,6 +5,8 @@ tags: [.NET Core, Patterns, C#]
 categories: [Software development]
 ---
 
+# Strategy Pattern in .NET Core
+
 In software development, patterns help us solve common problems or situations by following a well-known set of approaches. Those approaches have been tested for a long time and have proven useful in some scenarios. Patterns also allow developers to speak the same language, and refer to some development techniques by the pattern name, instead of explaining their behavior.
 
 Patterns are language agnostic, which means they are not bound to a programming language or a stack. However, some languages make easier the implementation of some of them than others.
