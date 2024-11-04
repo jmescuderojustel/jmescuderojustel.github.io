@@ -1,14 +1,16 @@
 title: Blog by Jesús María Escudero Justel
-description: This is a place in which I place some (hopefully) useful content
+description: This is a place in which I place some (hopefully) useful content about software development and all the things that are related to it (not everything is coding)
 author: Jesús María Escudero Justel
-url: "https://jmescuderojustel.github.io"
+show_downloads: false
 
 # Build settings
 markdown: kramdown
 theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Social links
 github_username:  jmescuderojustel
